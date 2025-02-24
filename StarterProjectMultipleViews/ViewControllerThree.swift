@@ -1,8 +1,8 @@
 /*
  
- FirstViewController.swift
+ ViewControllerThree.swift
  
- This file will contain the code for the first viewcontroller.
+ This file will contain the code for the third viewcontroller.
  Please ensure that your code is organised and is easy to read.
  This means that you will need to both structure your code correctly,
  in addition to using the correct syntax for Swift.
@@ -27,7 +27,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ViewControllerThree: UIViewController {
     
     // MARK: - IBOutlets
     
@@ -41,9 +41,7 @@ class FirstViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-

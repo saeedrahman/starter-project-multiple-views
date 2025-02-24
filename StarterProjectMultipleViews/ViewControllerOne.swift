@@ -1,8 +1,8 @@
 /*
  
- SecondViewController.swift
+ ViewControllerOne.swift
  
- This file will contain the code for the second viewcontroller.
+ This file will contain the code for the first viewcontroller.
  Please ensure that your code is organised and is easy to read.
  This means that you will need to both structure your code correctly,
  in addition to using the correct syntax for Swift.
@@ -27,7 +27,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ViewControllerOne: UIViewController {
     
     // MARK: - IBOutlets
     
@@ -46,3 +46,4 @@ class SecondViewController: UIViewController {
 
 
 }
+
